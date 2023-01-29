@@ -1,0 +1,34 @@
+.App 
+{
+  text-align: center;
+  background-color:#FBF2F5;
+  width: 100%; 
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.header 
+{
+  font-size: 30px;
+  color: #C2052B;
+}
+
+
+table
+{
+  width: 800px;
+  height: 400px;
+}
+
+th 
+{
+  color: #354E68;
+  font-size: 22px;
+}
+  
+td 
+{
+  text-align: center; 
+}
